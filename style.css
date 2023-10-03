@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(190, 123, 207);
+    color: rgb(0, 0, 0);
+}
+
+img {
+    display: block;
+    
+     margin-left: auto;
+      margin-right: auto;
+      border: 10px outset rgb(145, 26, 214);
+      background-color: rgb(240, 220, 245);    
+      text-align: center;
+  
+      /*margin-right: 200px;*/
+}
+
+nav {
+    height: 600px;
+    /*width: 200px;
+    float: left;*/
+    padding: 5px;
+    line-height: 30px;
+    font-size: 30px;
+    margin-left: 550px;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+article {
+    /*margin-left: 450px;*/
+    font-size: 100px;
+    text-align: center;
+    border: 20px outset rgb(145, 26, 214);
+    background-color: rgb(240, 220, 245);    
+    text-align: center;
+
+}
